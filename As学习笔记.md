@@ -1,8 +1,10 @@
+
 <center><font size=6 color=red>Android Stduio入门笔记</font></center>
 
-#***UI组件***
+# ***UI组件***
 
-##线性布局
+## 线性布局
+
 - id
 - layout_width
 - layout_height
@@ -11,14 +13,16 @@
 - layout_padding *内边距*
 - orientation *排列规则垂直or水平*
 
-##相对布局
+## 相对布局
+
 - layout_toLeftOf
 - layout_toRigthOf *相对位置*
 - layout_alignBottom *对齐*
 - layout_alignParentBottom  *和父框对齐*
 - layout_below *相对位置*
 
-##TextView
+## TextView
+
 - 大小 textSize textColor
 - 显示不下使用  maxLines="1" ellipsize="end"
 - 文字+icon drawableRight="@.." 添加在drawable的图片名字
@@ -40,7 +44,7 @@
         android:focusableInTouchMode="true"/>  //焦点设置
 ```
 
-##Button
+## Button
 - 大小颜色 和textview一样
 - 自定义背景形状   放在background里
   新建drawable资源文件，选shape，设置各属性
