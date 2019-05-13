@@ -1,5 +1,5 @@
 
-<center><font size=6 color=red>Android Stduio入门笔记</font></center>
+<center>Android Stduio入门笔记</center>
 
 # ***UI组件***
 
