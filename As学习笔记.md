@@ -1,7 +1,8 @@
 
-<center>Android Stduio入门笔记</center>
+#Android Stduio入门笔记
 
-# ***UI组件***
+----------
+
 
 ## 线性布局
 
