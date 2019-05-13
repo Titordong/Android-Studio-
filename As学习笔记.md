@@ -1,5 +1,7 @@
 <center><font size=6 color=red>Android Stduio入门笔记</font></center>
+
 #***UI组件***
+
 ##线性布局
 - id
 - layout_width
